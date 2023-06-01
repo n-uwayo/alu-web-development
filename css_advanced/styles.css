@@ -1,0 +1,250 @@
+.part1 {
+    background-color: #384046;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2vJm7C6WLcNTcef4c_Rged7MNCmPmjecLQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: initial;
+    color: white;
+}
+
+header {
+    margin-left: 90px;
+    padding-top: 30px;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+header img {
+    height: 20px;
+    width: 20px;
+}
+
+.logo a {
+    float: left;
+    color: white;
+    text-decoration: none;
+}
+
+.hlink a {
+    float: right;
+    margin-right: 40px;
+    color: white;
+    text-decoration: none;
+}
+
+.part2 {
+    margin-left: 90px;
+    font-weight: bold;
+}
+
+.part2 p {
+    text-align: center;
+    padding-right: 180px;
+    font-size: 10px;
+}
+
+.first img {
+    text-align: center;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.image {
+    display: flex;
+    flex-direction: row;
+    grid-gap: 1px;
+    margin-left: 90px;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin-left: 44.38%;
+    right: 44.38%;
+    margin-bottom: 10.64%;
+    background-color: #C271FF;
+    border: none;
+}
+
+.image h3 {
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.image p {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+
+.quote {
+    background-color: #C271FF;
+}
+
+.quote img {
+    text-align: center;
+    height: 90px;
+    border-radius: 80%;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.quote1 {
+    color: white;
+    margin-left: 240px;
+    margin-top: -100.2px;
+}
+
+blockquote {
+    bottom: 56.96%;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+.part3 {
+    display: flex;
+    flex-direction: row;
+    grid-gap: 1px;
+    margin-left: 90px;
+}
+
+.part3 img {
+    height: 80px;
+}
+
+.phi img {
+    background-color: #C271FF;
+    border-radius: 100%;
+}
+
+.star {
+    border-radius: none;
+    margin-left: -30px;
+    color: #C271FF;
+}
+
+.fre {
+    display: flex;
+    flex-direction: row;
+    background-color: #071629;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.fre img {
+    margin-left: 90px;
+    padding-left: 10px;
+}
+
+.free h1 {
+    text-align: center;
+}
+
+.free {
+    background-color: #071629;
+}
+
+.fre h2 {
+    font-family: Source Sans Pro Font style;
+    Font-size: 18px;
+    Line-height: 26px;
+    color: #FFFFFF;
+}
+
+.fre p {
+    Font-family: Source Sans Pro;
+    font-style: Regular;
+    Font-size: 14px;
+    Line-height: 26px;
+    Line-height: 148%;
+    color: #FFFFFF;
+    padding-left: 50px;
+}
+
+.npart1 {
+    display: flex;
+    flex-direction: row;
+    padding-top: 26px;
+    padding-left: 24px;
+}
+
+.npart1 h2 {
+    Font-family: Source Sans Pro;
+    Font-style: Bold;
+    Font-size: 16px;
+    Line-height: 20px;
+    Line-height: 100%;
+    text-align: Left Vertical align;
+}
+
+.npart h1 {
+    Font-family: Source Sans Pro;
+    Font-style: Light;
+    Font-size: 60px;
+    Line-height: 75px;
+    Line-height: 100%;
+    text-align: Center;
+    Vertical-align: Top;
+}
+
+footer {
+    background-color: #071629;
+    height: 100px;
+    width: 900px;
+    color: #FFFFFF;
+    Font-family: Coiny;
+    Font-style: Regular;
+    Font-size: 18px;
+    Line-height: 20px;
+    Line-height: 100%;
+    text-align: Left;
+    Vertical-align: Top;
+}
+
+footer img {
+    height: 14px;
+    width: 14px;
+}
+
+.lmage1 img {
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.lmage {
+    float: right;
+    margin-right: 100px;
+}
+
+.lmage img {
+    border-radius: 20px;
+    padding: 5px;
+}
+
+footer p {
+    Font-family: Source Sans Pro;
+    Font-style: Regular;
+    Font-size: 10px;
+    Line-height: 15px;
+    Line-height: 100%;
+    text-align: center;
+    Vertical-align: Top;
+}

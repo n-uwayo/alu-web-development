@@ -19,7 +19,8 @@ class LIFOCache(BaseCaching):
         self.queue = deque()
 
     def put(self, key, item):
-        """ Assign the item value for the key to the dictionary self.cache_data.
+        """ Assign the item value for the key to the dictionary
+        self.cache_data.
         """
         if key and item:
             if key in self.cache_data:
